@@ -1,0 +1,161 @@
+A:link
+{
+    COLOR: blue;
+    FONT-FAMILY: Arial;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: underline
+}
+A:visited
+{
+    COLOR: purple;
+    FONT-FAMILY: Arial;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: underline
+}
+A:active
+{
+    BACKGROUND-COLOR: blue;
+    COLOR: white;
+    FONT-FAMILY: Arial;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: underline
+}
+A:hover
+{
+    BACKGROUND-COLOR: blue;
+    COLOR: white;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: underline
+}
+BODY
+{
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 10pt;
+    TEXT-DECORATION: none
+}
+THEAD
+{
+    BACKGROUND-COLOR: #ffffcc;
+    BORDER-BOTTOM: thin solid;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+TBODY
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10pt;
+    TEXT-DECORATION: none
+}
+TFOOT
+{
+    BACKGROUND-COLOR: #ffffcc;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10pt;
+    TEXT-DECORATION: none
+}
+H1
+{
+    COLOR: blue;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 20pt
+}
+H6
+{
+    COLOR: red;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: normal
+}
+H2
+{
+    COLOR: purple;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 18pt
+}
+H3
+{
+    COLOR: black;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 14pt
+}
+LI
+{
+    FONT-FAMILY: Arial
+}
+LABEL
+{
+    COLOR: green;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 14pt;
+    FONT-STYLE: italic;
+    TEXT-DECORATION: none
+}
+.small
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 8pt
+}
+.Error
+{
+    COLOR: red;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 14pt;
+    FONT-WEIGHT: bold
+}
+.DocumentationLabel
+{
+    COLOR: green;
+    FONT-FAMILY: Arial;
+    FONT-STYLE: italic;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: underline
+}       
+.RowColour_1 {BACKGROUND-COLOR: #F0FFF0;}
+.RowColour_2 {BACKGROUND-COLOR: #FFFFFF;}
+.RowColour_3 {BACKGROUND-COLOR: #FBDFF9;}
+
+.indent_1 { margin-left: 50px; }
+.indent_2 { margin-left: 100px; }
+.indent_3 { margin-left: 150px; }
+.indent_4 { margin-left: 200px; }
+.DB_List
+{
+    BORDER-RIGHT: gray 1px solid;
+    PADDING-RIGHT: 1px;
+    BORDER-TOP: gray 1px solid;
+    PADDING-LEFT: 1px;
+    PADDING-BOTTOM: 1px;
+    OVERFLOW: scroll;
+    BORDER-LEFT: gray 1px solid;
+    PADDING-TOP: 1px;
+    BORDER-BOTTOM: gray 1px solid;
+    FONT-FAMILY: Arial;
+    HEIGHT: 300px
+}
+.H1
+    {
+FONT-SIZE: 20pt;
+COLOR: blue;
+Font -FAMILY: Arial
+}
+.H2
+{
+FONT-SIZE: 18pt;
+COLOR: purple;
+Font -FAMILY: Arial
+}
+.H3
+{
+FONT-SIZE: 14pt;
+COLOR: black;
+Font -FAMILY: Arial
+}
+.H6
+{
+FONT-WEIGHT: normal;
+FONT-SIZE: 14pt;
+COLOR: red;
+Font -FAMILY: Arial
+}
